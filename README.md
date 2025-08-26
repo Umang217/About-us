@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umang Parmar</h1>
 <h3 align="center">💻 BCA Student | 🛡️ Cybersecurity Enthusiast 🔍 Specializing in Cybersecurity & Ethical Hacking 🎓 Pursuing BCA with a strong focus on digital safety, privacy, and threat detection 🛠️ Exploring projects in secure software development, Python, and ethical cyber practices 🚀 Passionate about building tools that protect users and enhance digital trust 📍 Always learning | Always curious | Future Cyber Defender
 
+<h1>My Goal</h1>
 
 🌐 My goal is to become a skilled Cybersecurity Expert, protecting people and organizations from digital threats.
 🔒 I will master network security, cryptography, and ethical hacking to build strong defenses against cyberattacks.
